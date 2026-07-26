@@ -1,0 +1,20 @@
+Good morning/afternoon. My name is **Shalinie Perumal**.
+I have **3.6 years of experience** as a **Full Stack Developer** at **Integra Software Services**.
+I completed my **B.Tech in Electronics and Communication Engineering (ECE)**.
+My core expertise includes **Python, JavaScript, React.js, Node.js, HTML, CSS, SQL, MongoDB, and jQuery**.
+I have experience developing both frontend and backend applications.
+I have built responsive user interfaces and developed RESTful APIs.
+I also work on debugging, performance optimization, and application maintenance.
+One of my major projects is **IPubedit 2.0**, an AI-powered publishing platform.
+In this project, I worked extensively on reference structuring using Python and NLP techniques.
+I developed validation logic and automation to improve data accuracy and reduce manual effort.
+I also worked with XML processing, regular expressions, and machine learning-based solutions.
+Another project I worked on was a **Smart Reading Device for Visually Impaired People**.
+My contribution included image preprocessing and text-to-speech integration.
+This solution converted printed and handwritten text into speech across multiple languages.
+I enjoy solving challenging technical problems and learning new technologies.
+Currently, I am strengthening my skills in **Data Structures & Algorithms, SQL, Machine Learning, and Deep Learning**.
+I am a quick learner, adaptable, and enjoy collaborating with cross-functional teams.
+I always focus on writing clean, efficient, and scalable code.
+I am looking for an opportunity where I can contribute to innovative products while continuously enhancing my technical skills.
+Thank you, and I look forward to discussing how I can contribute to your organization.
